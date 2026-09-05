@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/sdk-events-typed-decoder",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/sdk-events-typed-decoder": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/sdk-events-typed-decoder",
+    "origin"
+  ]
+}
